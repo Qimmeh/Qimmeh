@@ -1,15 +1,28 @@
-# 👋 Hello! I'm Zifeng
+# 👋 Hello! I'm Zifeng.
 
-### 🚀 Projects
-* **DuitFlow POS**: A cloud-based Point of Sale system for SMEs featuring Firebase integration and bank payment tracking.
-* **3D Audio Player**: A custom player engine using the Spotify API with integrated 3D animations.
-* **Meme Hunter Tycoon**: A Roblox project featuring unique tycoon mechanics.
+I am a full-stack developer currently focused on building cloud-native applications and scalable systems. I believe the best way to master new technologies is by building projects that solve real problems.
+
+### 🚀 Featured Projects
+*   **[DuitFlow POS](https://duitflow.live)**: A cloud-based POS system for SMEs with Firebase integration and bank payment tracking.
+*   **[CampusHub](https://campushub.dev)**: A live platform serving campus communities.
+*   **3D Audio Player**: A custom audio engine powered by the Spotify API, featuring immersive 3D animations.
+
+---
 
 ### 🛠 Tech Stack
-<!-- Use badge patterns here for a clean look -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+*   **Languages**: Python, Java, JavaScript, TypeScript, HTML, CSS
+*   **Runtime & Backend**: Node.js, Bun
+*   **Infrastructure**: Firebase, Google Cloud Run, Coolify, DigitalOcean
 
-### 💻 Tools & IDEs
-*   **IDE/Editors**: GIMP, Adventure Game Studio, OpenToonz.
-*   **Hardware**: iPad Air, Apple Pencil Pro, and various gaming peripherals.
+---
+
+### 💻 Development Environment
+| Tool | Category |
+| :--- | :--- |
+| **Antigravity, Cline** | IDE / Editor |
+| **Codex** | CLI |
+| **Gemini, DeepSeek** | AI Models |
+
+---
+
+*Currently learning by building. Passionate about end-to-end development.*
