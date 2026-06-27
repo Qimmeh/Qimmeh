@@ -1,25 +1,15 @@
 # 👋 Hello! I'm Zifeng
 
-I'm a developer who enjoys building efficient systems and engaging games. My work spans from creating custom POS systems to scripting complex game mechanics.
+### 🚀 Projects
+* **DuitFlow POS**: A cloud-based Point of Sale system for SMEs featuring Firebase integration and bank payment tracking.
+* **3D Audio Player**: A custom player engine using the Spotify API with integrated 3D animations.
+* **Meme Hunter Tycoon**: A Roblox project featuring unique tycoon mechanics.
 
 ### 🛠 Tech Stack
-*   **Languages & Tools:** Python, Java (MythicMobs/Minecraft), Firebase.
-*   **Development:** GIMP (UI Design), OpenToonz (Animation), Adventure Game Studio.
+<!-- Use badge patterns here for a clean look -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
----
-
-### 🚀 Featured Projects
-*   **[DuitFlow POS]:** A custom Point of Sale system featuring Firebase integration and bank payment tracking.
-*   **[Meme Hunter Tycoon]:** A Roblox project featuring unique tycoon mechanics and meme-based mobs.
-*   **[Pokemon RPG]:** A text-based Python role-playing game with inventory and battle logic.
-
----
-
-### 💬 Connect With Me
-| Platform | Handle |
-| :--- | :--- |
-| **GitHub** | @yourusername |
-| **Instagram** | @whiskandwarmthmmu |
-
----
-*Last updated: June 2026*
+### 💻 Tools & IDEs
+*   **IDE/Editors**: GIMP, Adventure Game Studio, OpenToonz.
+*   **Hardware**: iPad Air, Apple Pencil Pro, and various gaming peripherals.
