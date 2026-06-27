@@ -3,7 +3,7 @@
 I'm a developer who enjoys building efficient systems and engaging games. My work spans from creating custom POS systems to scripting complex game mechanics.
 
 ### 🛠 Tech Stack
-*   **Languages & Tools:** Python, Lua (Roblox), Java (MythicMobs/Minecraft), Firebase.
+*   **Languages & Tools:** Python, Java (MythicMobs/Minecraft), Firebase.
 *   **Development:** GIMP (UI Design), OpenToonz (Animation), Adventure Game Studio.
 
 ---
