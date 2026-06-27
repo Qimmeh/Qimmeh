@@ -27,14 +27,12 @@ I am a full-stack developer focused on building scalable cloud-native applicatio
 * **Flux (On development)**: A custom audio engine powered by the Spotify API, featuring immersive 3D animations, and will be open source for everyone to use and modify.
 
 ### 💻 Development Environment
-* **IDE / Editor:** 
-  ![Antigravity](https://img.shields.io/badge/ANTIGRAVITY-424242?style=for-the-badge&logo=appveyor) 
-  ![Cline](https://img.shields.io/badge/CLINE-424242?style=for-the-badge&logo=appveyor)
-* **CLI:** 
-  ![Codex](https://img.shields.io/badge/CODEX-000000?style=for-the-badge&logo=google)
-* **AI Models:** 
-  ![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=google) 
-  ![DeepSeek](https://img.shields.io/badge/DEEPSEEK-000000?style=for-the-badge&logo=deepseek)
+<br>
+**IDE / Editor:** &nbsp; ![Antigravity](https://img.shields.io/badge/ANTIGRAVITY-424242?style=for-the-badge&logo=appveyor) &nbsp; ![Cline](https://img.shields.io/badge/CLINE-424242?style=for-the-badge&logo=appveyor)
+<br>
+**CLI:** &nbsp; ![Codex](https://img.shields.io/badge/CODEX-000000?style=for-the-badge&logo=google)
+<br>
+**AI Models:** &nbsp; ![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=google) &nbsp; ![DeepSeek](https://img.shields.io/badge/DEEPSEEK-000000?style=for-the-badge&logo=deepseek)
 
 ---
 *Last updated: June 2026*
