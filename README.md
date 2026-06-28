@@ -22,7 +22,7 @@ I am a full-stack developer focused on building scalable cloud-native applicatio
 ---
 
 ### 🚀 Projects
-* **[DuitFlow POS](https://duitflow.live)**: A cloud-based POS system for SMEs with Firebase integration and bank payment tracking.
+* **[DuitFlow POS](https://duitflow.live)**: A cloud-based POS system for SMEs.
 * **[CampusHub](https://campushub.dev)**: A live platform serving campus communities.
 * **Flux (On development)**: A custom audio engine powered by the Spotify API, featuring immersive 3D animations, and will be open source for everyone to use and modify.
 
