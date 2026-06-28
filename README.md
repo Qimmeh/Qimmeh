@@ -24,7 +24,7 @@ I am a full-stack developer focused on building scalable cloud-native applicatio
 ### 🚀 Projects
 * **[DuitFlow POS](https://duitflow.live)**: A cloud-based POS system for SMEs.
 * **[CampusHub](https://campushub.dev)**: A live platform serving campus communities.
-* **Flux (On development)**: A custom audio engine powered by the Spotify API, featuring immersive 3D animations, and will be open source for everyone to use and modify.
+* **My-Buddy (On development)**: an cute buddy that lives on your device, listen what you do and grow by time
 
 ### 💻 Development Environment
 * **IDE / Editor:**![Antigravity](https://img.shields.io/badge/Antigravity-424242?style=for-the-badge&logo=appveyor) ![Cline](https://img.shields.io/badge/Cline-424242?style=for-the-badge&logo=appveyor)
