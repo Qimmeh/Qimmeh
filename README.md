@@ -23,6 +23,7 @@ I am a full-stack developer focused on building scalable cloud-native applicatio
 ![Framer Motion](https://img.shields.io/badge/framer_motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Recharts](https://img.shields.io/badge/recharts-000000?style=for-the-badge&logo=recharts&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Backend
 ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
