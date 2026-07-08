@@ -44,9 +44,5 @@ I am a full-stack developer focused on building scalable cloud-native applicatio
 * **[CampusHub](https://campushub.dev)**: A live platform serving campus communities.
 * **My-Buddy (On development)**: A cute buddy that lives on your device, listens to what you do, and grows over time.
 
-### 💻 Development Environment
-* **IDE / Editor:** ![Cline](https://img.shields.io/badge/Cline-424242?style=for-the-badge&logo=appveyor)
-* **AI Models:** ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google) ![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek)
-
 ---
 *Last updated: June 2026*
