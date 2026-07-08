@@ -2,7 +2,12 @@
 
 I am a full-stack developer focused on building scalable cloud-native applications. I learn and grow by building real-world projects.
 
-![Contribution snake](https://raw.githubusercontent.com/Qimmeh/Qimmeh/output/github-snake.svg)
+### 🐍 My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qimmeh/Qimmeh/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qimmeh/Qimmeh/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Qimmeh/Qimmeh/output/github-snake.svg">
+</picture>
 
 ### 📞 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/850601819276181545)
